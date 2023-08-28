@@ -1,0 +1,2 @@
+To run frontend: npm run start
+To do: google how to allow users to enter workouts, example: how to get user input react app?. Google how to save them to backend, example: how to save data in express app?. 
